@@ -1,4 +1,4 @@
 snakevstime
 ===========
 
-play with your snak against time . ;) ;)
+play with your snake against time . ;) ;)
